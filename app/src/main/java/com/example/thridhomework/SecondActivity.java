@@ -25,19 +25,19 @@ public class SecondActivity extends AppCompatActivity {
 
     private void loadData(){
         contacts = new ArrayList<>();
-        contacts.add("Kumarbek");
-        contacts.add("Kadyrbek");
-        contacts.add("Askar");
-        contacts.add("Aziza");
-        contacts.add("Bektur");
-        contacts.add("Temirlan");
-        contacts.add("Zhyrgal");
-        contacts.add("Beksultan");
-        contacts.add("Nurgazy");
-        contacts.add("Aleksey");
-        contacts.add("Azamat");
-        contacts.add("Kanatbek");
-        contacts.add("Erlan");
-        contacts.add("Ayana");
+        contacts.add("Super-Sense");
+        contacts.add("Super soldier");
+        contacts.add("Magic");
+        contacts.add("Black Panther suit");
+        contacts.add("Iron Suit");
+        contacts.add("Power");
+        contacts.add("Lightning");
+        contacts.add("I am Groot");
+        contacts.add("Infinity stones");
+        contacts.add("Wings");
+        contacts.add("Symbiosis");
+        contacts.add("Immortality");
+        contacts.add("Just a man");
+        contacts.add("God of lying");
     }
 }
